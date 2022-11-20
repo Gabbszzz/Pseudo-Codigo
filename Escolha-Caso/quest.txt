@@ -1,0 +1,4 @@
+I - Calcule o valor de um imposto pago por mulheres e homens, sendo 10% para mulheres e 5% a mais para homens do que o percentual pago pelas mulheres. O programa deverá ler o sexo (M ou F) e o salário, na sequência utilize a estrutura ESCOLHA CASO para verificar se trata de homem ou mulher.
+
+
+II - Elaborar um programa para criar o menu igual ao mostrado no anexo e utilizando a estrutura ESCOLHA CASO calcule as 4 áreas do menu.
