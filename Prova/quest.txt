@@ -1,0 +1,37 @@
+Caro desenvolvedor,
+Você deverá construir um sistema onde seja possível escolher duas opções em um
+menu. A 1o será para calcular o salário líquido de um professor e a 2o para descobrir a
+categoria de um triângulo. Os detalhes de cada algoritmo são:
+1. Construir um programa que calcule salário líquido de um professor. Para
+elaborar o programa, você deve possuir alguns dados, tais como: valor da hora
+aula, número de horas trabalhadas no mês e percentual de desconto do INSS.
+Em primeiro lugar, deve-se estabelecer o seu salário bruto para fazer o
+desconto e ter o valor do salário líquido.
+Desconto =
+
+Salário de contribuição Alíquota
+
+Até R$ 1.100 7,5%
+
+De R$ 1.100,01 a R$ 2.203,48 9%
+
+De R$ 2.203,49 até R$ 3.305,22 12%
+
+De R$ 3.305,23 até R$ 6.433,57 14%
+
+Serviço Nacional de Aprendizagem Industrial
+Centro de Formação Profissional Antônio Urbano de Almeida – CFP AUA
+Curso Técnico em Desenvolvimento de Sistemas
+Lógica de Programação
+
+2
+
+2. Ler três valores para os lados de um triângulo, considerando lados como: A, B
+e C. Verificar se os lados fornecidos formam realmente um triângulo, e se for
+esta condição verdadeira, deve ser indicado qual o tipo de triângulo foi
+informado: isósceles, escaleno ou equilátero.
+Dicas:
+1 - É necessário saber em primeiro lugar o que é realmente um triângulo
+2 – Um triângulo é isóscele quando possui dois lados iguais e um diferente,
+escaleno quando possui todos os lados diferentes, é equilátero quando possui
+todos os lados iguais.
