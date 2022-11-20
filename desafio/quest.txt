@@ -1,0 +1,17 @@
+Secretária R$ 850,00
+Técnico R$ 1.300,00
+Engenheiro R$ 8.000,00
+Analist. Sist. R$ 2.500,00
+Diretor R$ 12.000,00
+
+DESAFIO
+
+Crie um algoritmo que pergunte qual o cargo do colaborador mediante a tabela acima, após a
+escolha, faça o calculo do valor da diária, verifique qual o turno do mesmo, e se teve faltas, se
+tiver faltas informe o valor do desconto por falta e se não tiver faltas ele ganha o bônus 0
+faltas(12% sob o salário bruto), pergunte se ele tem filhos e quantos são, se tiver o mesmo
+ganha salário família, e ainda se trabalhar a noite tem direito o adicional noturno(20% sob o
+salário bruto)
+INSS – 9%
+FGTS – 8%
+A saída deve ser o total de proventos, de descontos e salário líquido.
