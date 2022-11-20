@@ -1,0 +1,4 @@
+01. Crie um algoritmo que permita entrar com o nome, a nota da prova 1 e da prova 2 de 15 alunos. Ao final, imprimir uma listagem, contendo: nome, nota da prova 1, nota da prova 2, e média das notas de cada aluno.
+02. A prefeitura do Rio de Janeiro abriu uma linha de crédito para os funcionários estatutários. O valor máximo da prestação não poderá ultrapassar 30% do salário bruto. Faça um programa em Portugol que permita entrar com o salário bruto e o valor da prestação e informar se o empréstimo pode ou não ser concedido.
+03.  Faça um algoritmo que imprima os números ímpares de 1 até 100;
+04. Faça um algoritmo que permita entrar com o nome, a idade e o sexo de 20 pessoas. O programa deve imprimir o nome da pessoa se ela for do sexo masculino e tiver mais de 21 anos.
